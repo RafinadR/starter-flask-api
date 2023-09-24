@@ -5,5 +5,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    a = "outrageous moth pants = епатажні штани від молі  (c)Google and Roma Veles :P"
+    a = "Roma Veles"
     return a
